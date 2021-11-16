@@ -1,5 +1,5 @@
 [![MLOps with Github Actions](https://github.com/balajivenky06/ML_Deployment/actions/workflows/main.yml/badge.svg)](https://github.com/balajivenky06/ML_Deployment/actions/workflows/main.yml)
-[!Aws Code Build](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiQlVCZGtZUEdSRUZvWS8xS0dLT0tzSktXYWdaT2s3MXVjTmk5RjJvU24rUlRzTjRhUWtWTHB0TkhVekd5dWlhSVArWGFBYXFxUnMyVUttWFRpeldOQU53PSIsIml2UGFyYW1ldGVyU3BlYyI6IlpuYkZTMDF6Nm5QVTJ5dnYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+[![AWS Code Build](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiQlVCZGtZUEdSRUZvWS8xS0dLT0tzSktXYWdaT2s3MXVjTmk5RjJvU24rUlRzTjRhUWtWTHB0TkhVekd5dWlhSVArWGFBYXFxUnMyVUttWFRpeldOQU53PSIsIml2UGFyYW1ldGVyU3BlYyI6IlpuYkZTMDF6Nm5QVTJ5dnYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 # ML_Deployment
 contains workflow for creating ML model CI/CD Deployment using Git Actions, AWS Code Commit &amp; App Runner
